@@ -1,2 +1,3 @@
 # cookie-animation-JS
- Beginner JS animation 
+ - Beginner JS animation - using GSAP
+![Screenshot.png]
