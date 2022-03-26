@@ -1,3 +1,3 @@
 # cookie-animation-JS
  - Beginner JS animation - using GSAP
-![Screenshot.png]
+![Screenshot](Screenshot.png)
